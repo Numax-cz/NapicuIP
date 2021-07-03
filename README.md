@@ -7,7 +7,7 @@
     git clone ...
    ```
 ### Instalace 
-1. Nainstalování balíčků (server)
+1. Nainstalování balíčků 
    ```sh
    npm install
    ``` 
