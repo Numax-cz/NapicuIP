@@ -12,6 +12,7 @@ app.get("/", (req, res) => {
     res.render('index.ejs', { ip: ip });
 });
 
+
 app.listen(PORT, () => {
     console.log("Aplikace běží na portu: " + PORT);
 });
