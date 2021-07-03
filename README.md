@@ -2,6 +2,7 @@
 * Aplikace pro zjištění ip uživatele
 * Nespouštět na localhostu
 * Vytvořeno pomocí NodeJS
+***
 1. Naklonování repozitáře
     ```sh
     git clone ...
